@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c055b57e-552a-4f49-8456-9661aa767239" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab_04_Romanenko/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Lab_04_Romanenko.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Models/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/InvalidEMailException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/TimeContinuumException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/UserIsProbablyDeadException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/FileFolderHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/ProceedCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/SerializationManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Tools/UserTableGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/PersonWindowViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/Lab_04_Romanenko.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/Lab_04_Romanenko.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/Lab_04_Romanenko.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/Lab_04_Romanenko.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Debug/netcoreapp3.1/Lab_04_Romanenko_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Lab_04_Romanenko.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Lab_04_Romanenko.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Lab_04_Romanenko.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/Lab_04_Romanenko.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_04_Romanenko/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/InvalidEMailException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/TimeContinuumException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/UserIsProbablyDeadException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/ProceedCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/MainWindowViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/UserTableGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/SerializationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Tools/FileFolderHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Models/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/PersonWindowViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/TimeContinuumException.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/UserIsProbablyDeadException.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/Exceptions/InvalidEMailException.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/MainWindowViewModel.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/UserTableFiller.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/ColumnNames.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Models/UserDatabase.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/MainWindow1.xaml.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow1.xaml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/ProceedCommand.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/ILoaderOwner.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/LoaderManager.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/App.xaml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/UserTableGenerator.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/PersonWindow.xaml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/PersonWindowViewModel.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/SerializationManager.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Tools/FileFolderHelper.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Views/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/Models/Person.cs" />
+        <option value="$PROJECT_DIR$/Lab_04_Romanenko/ViewModels/MainWindowViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Mikha\RiderProjects\Lab_04_Romanenko\.idea\.idea.Lab_04_Romanenko\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRIVBBHHfWe7pRscW2uWoMhfCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab_04_Romanenko" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab_04_Romanenko/Lab_04_Romanenko.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1584990135461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584990135461" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1584990135461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584990135461" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1584990135461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584990135461" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.2.bottom" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state width="1493" height="265" key="GridCell.Tab.2.center" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state width="1493" height="265" key="GridCell.Tab.2.left" timestamp="1584990135462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1584990135462" />
+    <state width="1493" height="265" key="GridCell.Tab.2.right" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state width="1493" height="265" key="GridCell.Tab.3.bottom" timestamp="1584990135464">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584990135464" />
+    <state width="1493" height="265" key="GridCell.Tab.3.center" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state width="1493" height="265" key="GridCell.Tab.3.left" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state width="1493" height="265" key="GridCell.Tab.3.right" timestamp="1584990135463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1584990135463" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584876649121">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1584876649121" />
+  </component>
+</project>
